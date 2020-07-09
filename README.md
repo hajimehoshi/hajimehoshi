@@ -1,6 +1,6 @@
 I am the author of
 
-- [Ebiten](https://ebiten.org) - A dead simple 2D game library in Go
+- [Ebiten](https://ebiten.org) - A dead simple 2D game library for Go
 - [Oto](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms
 - [WasmServe](https://github.com/hajimehoshi/wasmserve) - An HTTP server for testing Wasm
 - [Asobiba](https://github.com/hajimehoshi/asobiba) - A Go Playground in WebAssembly
