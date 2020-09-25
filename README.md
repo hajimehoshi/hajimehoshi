@@ -7,6 +7,7 @@ I am the author of
 - [go2cpp](https://github.com/hajimehoshi/go2cpp) - A converter from Go to C++
 - [go-mp3](https://github.com/hajimehoshi/go-mp3) - An MP3 decoder in pure Go
 - [stbvorbis.js](https://github.com/hajimehoshi/stbvorbis.js) - A JavaScript port of stb_vorbis.c
+- [bitmapfont](https://github.com/hajimehoshi/bitmapfont) - A bitmap font for multiple languages
 
 I am a contributor to
 
